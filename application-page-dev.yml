@@ -3,7 +3,7 @@ server:
 spring:
   application:
     name: hrm-page
-  datasource:
+datasource:
       driver-class-name: com.mysql.jdbc.Driver
       url: jdbc:mysql://localhost:3306/hrm_page
       username: root
