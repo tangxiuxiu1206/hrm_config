@@ -9,5 +9,5 @@ datasource:
       username: root
       password: 123456
 mybatis-plus:
-  mapper-locations: classpath:cn/itsource/hrm/mapper/*Mapper.xml
+  mapper-locations: classpath:com/txx/hrm/mapper/*Mapper.xml
   type-aliases-package: com.txx.hrm.domain,com.txx.hrm.query
